@@ -1,6 +1,6 @@
 # arrhydet
 
-![Arrhydet logo](img/logo.PNG)
+![Arrhydet logo](img/logo.png)
 
 Arrhythmia detector based on machine learning algorithms
 
